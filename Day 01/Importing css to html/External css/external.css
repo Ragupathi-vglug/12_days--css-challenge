@@ -1,0 +1,11 @@
+h1{
+    font-style: italic;
+    color: blue;
+    text-align: center;
+}
+p{
+    color: chartreuse;
+    font-size: x-large;
+    font-style: oblique;
+    text-align: justify;
+}

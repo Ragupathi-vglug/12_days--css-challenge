@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        input:disabled{
+            background-color:lightblue;
+            color: black;
+        }
+        .ragu input:checked{
+            outline: 2px solid brown;
+        }
+        p:empty{
+            width: 200px;
+            height: 200px;
+            background-color: blue;
+            border: 2px dotted black;
+        }
+    </style>
+</head>
+<body>
+    <h1>Disabled in Css</h1>
+    <input type="text" value="Enabled">
+    <br>
+    <input type="text" value="Disabled" disabled>
+    <div class="ragu">
+    <h1>Checked in Css</h1>
+    <input type="checkbox">Box 01
+    <br>
+    <input type="checkbox" checked>Box 02
+    </div>
+    <h1>Empty in Css</h1>
+    <p></p>
+    <p>Not Empty</p>
+    <p> </p>
+
+</body>
+</html>

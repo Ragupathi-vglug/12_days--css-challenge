@@ -153,7 +153,10 @@ Each day focuses on specific CSS concepts and practical implementations.
 └── day12/
 ```
 
+
 ---
+
+
 ##🚀 How to Run
 Clone the repository:
 git clone https://github.com/Ragupathi-vglug/12_days--css-challenge.git
@@ -162,7 +165,9 @@ cd day1
 Run in browser:
 Open index.html in your browser
 
+
 ---
+
 
 ##📈 Progress Tracker
  Day 1
@@ -178,7 +183,9 @@ Open index.html in your browser
  Day 11
  Day 12
 
+
 ---
+
 
 ##💡 What I Learned
 Strong understanding of CSS fundamentals
@@ -186,13 +193,16 @@ Responsive web design techniques
 Modern layout systems (Flexbox & Grid)
 Animations and UI improvements
 
+
 ---
+
 
 ##🔥 Future Improvements
 Add more advanced UI components
 Explore CSS frameworks (Tailwind, Bootstrap)
 Improve accessibility
 Add more animations
+
 
 ---
 

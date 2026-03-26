@@ -151,7 +151,7 @@ Each day focuses on specific CSS concepts and practical implementations.
 ├── day10/
 ├── day11/
 └── day12/
-'''bash
+'''
 
 ---
 ##/

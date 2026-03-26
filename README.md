@@ -151,11 +151,10 @@ Each day focuses on specific CSS concepts and practical implementations.
 ├── day10/
 ├── day11/
 └── day12/
-'''
+```
 
 ---
-##/
-🚀 How to Run
+##🚀 How to Run
 Clone the repository:
 git clone https://github.com/Ragupathi-vglug/12_days--css-challenge.git
 Open any project:
